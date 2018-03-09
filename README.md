@@ -1,6 +1,7 @@
 # CI/CD with Wercker
 
 ## Introduction
+[![wercker status](https://app.wercker.com/status/2560b160963c6207b95c58bbc0adb646/s/master "wercker status")](https://app.wercker.com/project/byKey/2560b160963c6207b95c58bbc0adb646) 
 
 If you're starting a new project one of the steps you need to perform is setup Continuous Integration (CI) and Continuous Deployment (CD) processes. 
 It's highly possible that you're familiar with CI tools like [Jenkins](https://jenkins.io/), [Visual Studio Team Services](https://www.visualstudio.com/team-services/) or [Octopus](https://octopus.com/). I would like to introduce you to something new. This tool is named [Wercker](http://www.wercker.com/).
