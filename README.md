@@ -5,7 +5,7 @@
 
 If you're starting a new project one of the steps you need to perform is setup Continuous Integration (CI) and Continuous Deployment (CD) processes. 
 It's highly possible that you're familiar with CI tools like [Jenkins](https://jenkins.io/), [Visual Studio Team Services](https://www.visualstudio.com/team-services/) or [Octopus](https://octopus.com/). I would like to introduce you to something new. This tool is named [Wercker](http://www.wercker.com/).
-
+ 
 In my opinion, Wercker could be interesting for developers who are working with or are considering to start a new project based on Docker. It will automatize process of creating a Docker image containing your application, performing unit and integration tests and at the end publishing a newly created image to [DockerHub](https://hub.docker.com/). I think that the most significant advantage of Wercker is that it is free (at least at the moment of writing this article).
 
 BTW, if you aren't familiar with DockerHub, in short words it is a repository for Docker images. By the analogy to the GitHub, you can pull and push your images to a dedicated repository.  You can read more about pulling an image manually to the DockerHub in [this post](https://dev.to/ech0server/creating-a-docker-image-and-upload-it-to-docker-hub) created by [MaGa](https://dev.to/ech0server).
